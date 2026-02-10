@@ -1,0 +1,21 @@
+{
+  "name": "@felipe_albornoz/parimpar",
+  "version": "1.0.0",
+  "description": "Uma biblioteca JavaScript para verificar se um número é par ou ímpar",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "par",
+    "ímpar",
+    "javascript",
+    "utilitário"
+  ],
+  "author": "Felipe Albornoz",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
